@@ -47,6 +47,6 @@ $ npm install -g localtunnel
 ### Step 5 - Done
 - Now goto your Facebook page and send it a chat message, it will echo back the text you send.
 
-**Thank you for reading and all your feedbacks are welcome.**
+**Thank you for reading and your feedback is welcome.**
 
 
